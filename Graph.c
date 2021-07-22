@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 /* Johannes Alexander Putra
-2002895
+
 
 */
 struct vertex
